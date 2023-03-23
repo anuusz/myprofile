@@ -169,10 +169,11 @@ body {
 
 .about .row {
   display: flex;
+  padding-top: 0.5rem
 }
 
 .about .row .about-img {
-  flex: 1 1 1rem;
+  flex: 1 1 5rem;
 }
 
 .about .row .about-img img {
